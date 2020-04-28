@@ -1,0 +1,24 @@
+{
+  "name": "gapanalysis",
+  "version": "1.0.0",
+  "description": "Graphic Gap Analysis",
+  "main": "app.js",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./run.sh"
+  },
+  "keywords": [
+    "D3",
+    "Javascript",
+    "Gap",
+    "Analysis",
+    "HTML",
+    "Docker"
+  ],
+  "author": "Raphael Bittan",
+  "license": "Apache-2.0"
+}
